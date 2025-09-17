@@ -1,0 +1,5 @@
+{
+  "name": "Game Developer Portfolio",
+  "description": "A modern, single-page React portfolio for a game developer, designed to be scannable and optimized for recruiters. It features project showcases, a skills grid, and a downloadable ATS-friendly resume.",
+  "requestFramePermissions": []
+}
