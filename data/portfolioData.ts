@@ -319,6 +319,7 @@ export const portfolioData: PortfolioData = {
       category: 'Tools & Platforms',
       skills: [
         { name: 'Blender' },
+        { name: 'Figma' },
         { name: 'Slack' },
         { name: 'Gitlab' },
         { name: 'Trello' },
