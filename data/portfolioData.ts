@@ -98,7 +98,7 @@ const games = [
   { 
     name: 'Pixel Press', 
     link: 'https://apps.apple.com/gr/app/pixel-press/id6736611581',
-    gameplay: '',
+    gameplay: 'https://youtube.com/shorts/9q4NhwxfQkI?feature=share',
     summary: 'Unleash your creativity by designing unique pixel art on t-shirts and various items, bringing your digital creations to life in a fun and interactive way.',
     icon: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/bd/72/a4bd7299-636f-a81b-4ac7-e70fe54f1133/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/434x0w.webp.'
   }
@@ -149,7 +149,7 @@ const games = [
   { 
     name: 'DIY Signboard', 
     link: 'https://apps.apple.com/gr/app/diy-signboard/id6449289568',
-    gameplay: '',
+    gameplay: 'https://youtube.com/shorts/mjCO0X1L_hM?feature=share',
     icon: 'https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/75/ed/bc/75edbc43-9052-2db0-ed21-b56f417ddda9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/434x0w.webp',
     summary: 'Express your artistic side by designing and crafting custom signboards using a variety of tools, colors, and decorations in this creative simulator.',
   },
@@ -223,7 +223,7 @@ export const portfolioData: PortfolioData = {
   email: 'saimjutt2280@gmail.com',
   socials: {
     github: 'https://github.com/saimjutt007',
-    linkedin: 'www.linkedin.com/in/saim-zafar-997051215',
+    linkedin: 'https://linkedin.com/in/saim-zafar-997051215',
   },
   hero: {
     taglines: {
