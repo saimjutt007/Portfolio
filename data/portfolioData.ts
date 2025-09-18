@@ -331,18 +331,18 @@ export const portfolioData: PortfolioData = {
   education: [
     {
       degree: 'B.S. in Computer Science',
-      institution: 'University of Centeral Punjab.',
-      year: '2018 - 2022',
+      institution: 'University of Centeral Punjab',
+      year: '(2018 - 2022)',
       details: '4 years',
     },
      {
       degree: 'Intermediate in Computer Science',
       institution: 'Punjab Group of Colleges',
-      year: '2016,2018',
+      year: '(2016 - 2018)',
       details: '2 years',
     }
   ],
   contact: {
-    availability: 'Get in Touch. Located in PKT (UTC+5).',
+    availability: 'Get in Touch. Located in PKT (UTC+5). Phone no. +92 313 7845777.',
   },
 };
