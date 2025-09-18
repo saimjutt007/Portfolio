@@ -128,7 +128,7 @@ const games = [
   { 
     name: 'Connect Couples', 
     link: 'https://apps.apple.com/gr/app/connect-couples/id6476555997',
-    gameplay: '',
+    gameplay: 'https://youtube.com/shorts/HK1MnFHV3Xw?feature=share',
     icon: 'https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/22/46/102246c8-2d86-d5bc-b0b0-1053592cab8f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/434x0w.webp',
     summary: 'Solve challenging path-finding puzzles by drawing lines to reunite couples, navigating obstacles to bring them together.',
   },
