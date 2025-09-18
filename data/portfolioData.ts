@@ -223,7 +223,7 @@ export const portfolioData: PortfolioData = {
   email: 'saimjutt2280@gmail.com',
   socials: {
     github: 'https://github.com/saimjutt007',
-    linkedin: 'https://linkedin.com/in/{{username}}',
+    linkedin: 'www.linkedin.com/in/saim-zafar-997051215',
   },
   hero: {
     taglines: {
